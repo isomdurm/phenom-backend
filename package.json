@@ -28,7 +28,7 @@
     "mandrill-api": "1.0.45",
     "mixpanel": "^0.3.2",
     "mocha": "2.2.5",
-    "moment": "2.10.3",
+    "moment": "2.24.0",
     "multiparty": "4.1.2",
     "mysql": "2.7.0",
     "node-twitter-api": "1.6.0",
