@@ -53,7 +53,7 @@
     "skipper-disk": "0.5.3",
     "sns-mobile": "1.0.2",
     "spotify-web-api-node": "1.2.1",
-    "superagent": "^1.8.2",
+    "superagent": "^5.1.2",
     "supertest": "0.13.0",
     "underscore": "1.8.2",
     "validator": "4.0.2",
