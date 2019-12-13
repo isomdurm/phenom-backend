@@ -44,7 +44,7 @@
     "passport-oauth2-client-password": "0.1.2",
     "passport-twitter-token": "0.1.5",
     "querystring": "0.2.0",
-    "request": "2.57.0",
+    "request": "2.88.0",
     "require-from": "0.10.0",
     "sails": "0.11.4",
     "sails-disk": "0.10.3",
