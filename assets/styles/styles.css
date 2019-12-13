@@ -1,0 +1,109 @@
+@font-face {
+    font-family: 'UnitedSansSemiCond-Heavy';
+    src: url('/fonts/UnitedSansSemiCond-Heavy.otf');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UniversLTStd-Bold';
+    src: url('/fonts/UniversLTStd-Bold.otf');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UniversLTStd';
+    src: url('/fonts/UniversLTStd.otf');
+    font-style: normal;
+}
+
+.default-margin{
+  margin: 16px;
+  color:white;
+  backgroud-color:black;
+  background: black;
+  backgroud-color:black;
+  font-family: 'UniversLTStd';
+}
+
+.control-label{
+    font-family: UniversLTStd-Bold;
+    font-size: 14px;
+    color: #47474E;
+    line-height: 11px;
+    padding-left: 3px;
+    transition: all 0.2s ease 0s;
+}
+
+.popover-content{
+    color:white;
+    background-color: #A18858;
+    border-color: transparent;
+    border: none;
+}
+
+.popover{
+    border-radius: 0px;
+    border-color: transparent;
+}
+
+.btn{
+    background: #A18858;
+    border-color: transparent;
+    border-radius: 0px;
+    font-family: UnitedSansSemiCond-Heavy;
+    font-size: 22px;
+    color: white;
+    letter-spacing: 1.83px;
+    line-height: 26.5px;
+    transition: all 0.2s ease 0s;
+}
+
+.form-control{
+    background-color: black;
+    border-color: transparent;
+}
+
+.input-lg{
+    font-family: UniversLTStd;
+    letter-spacing: 2.5px;
+    font-size: 22px;
+    color: #A18858;
+    padding-left: 2.5px;
+}
+
+input:required {
+    border-color: transparent !important;
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+
+::-webkit-input-placeholder {
+    letter-spacing: 1.33px;
+    font-size: 20px;
+}
+
+hr{
+    border-color: #47474E;
+    margin: -2px 3px 0px 3px;
+}
+
+h3{
+    font-family: UnitedSansSemiCond-Heavy;
+    font-size: 20px;
+    color: #FFFFFF;
+    letter-spacing: 1.33px;
+    line-height: 19px;
+}
+
+body {
+    font-family: UniversLTStd;
+    font-size: 16px;
+    color: #47474E;
+    line-height: 20px;
+    background-color: black;
+}
+
+label {
+    color: #47474E;
+}
+

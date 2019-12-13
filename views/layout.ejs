@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%- title %></title>
+    <!-- Viewport mobile tag for sensible mobile support -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+    <!--Stylesheets-->
+      <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+      <link rel="stylesheet" href="/styles/styles.css">
+  </head>
+
+  <body>
+    <!-- JQuery -->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap-theme.min.js"></script>
+    <script type="text/javascript" src="/js/validator.min.js"></script>
+    
+    <!-- Controller/Action template -->
+
+    <div class="default-margin">
+      <h3 style="text-align: center"><%= title %></h3>
+      <div>
+        <br>
+        <img style="margin:0px auto;display:block" src="../images/Phenom_Mark.png"/>
+        <br><br>
+        <%- body %>
+      </div>
+    </div>
+  </body>
+</html>

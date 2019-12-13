@@ -1,0 +1,8 @@
+{
+     "Welcome": "Welcome",
+     "USER_FOLLOWING_NOTIFICATION": "%s is now following you.",
+     "MOMENT_LIKE_NOTIFICATION": "%s likes your moment.",
+     "MOMENT_COMMENT_NOTIFICATION":  "%s commented on your moment.",
+     "MOMENT_COMMENT_USER_REFERENCE_NOTIFICATION": "%s mentioned you in a moment comment.",
+     "MOMENT_USER_REFERENCE_NOTIFICATION": "%s tagged you in a moment"
+}
