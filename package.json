@@ -46,7 +46,7 @@
     "querystring": "0.2.0",
     "request": "2.57.0",
     "require-from": "0.10.0",
-    "sails": "0.11.4",
+    "sails": "1.2.3",
     "sails-disk": "0.10.3",
     "sails-mysql": "0.10.11",
     "sendgrid": "^2.0.0",
