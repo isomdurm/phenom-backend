@@ -6,7 +6,7 @@
   "dependencies": {
     "aws-cloudfront-sign": "2.0.1",
     "aws-sdk": "2.1.4",
-    "bcrypt": "0.8.5",
+    "bcrypt": "5.0.0",
     "bluebird": "2.9.30",
     "chai": "3.0",
     "chai-as-promised": "5.1.0",
